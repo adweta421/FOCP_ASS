@@ -15,3 +15,6 @@ print(exp_4)
 
 exp_5 = 10 % 3
 print(exp_5)
+
+exp_6 = 100 // 33
+print(exp_6)
