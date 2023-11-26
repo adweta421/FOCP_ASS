@@ -1,7 +1,7 @@
 # Defination
 
 Assignment:
- Assignment is the process of giving a value to a variable. In programming languages like Python, you use the assignment operator (=) to bind a value to a variable.
+Assignment is the process of giving a value to a variable. In programming languages like Python, you use the assignment operator (=) to bind a value to a variable.
 
 
 Data-type:
